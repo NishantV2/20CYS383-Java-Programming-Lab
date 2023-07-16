@@ -240,7 +240,7 @@ public class InternetBankingSystem extends JFrame {
 
 ```
 ### Demo
-![image](https://github.com/NishantV2/20CYS383-Java-Programming-Lab/Records/21CYS/CB.EN.U4CYS21049/java_project/Screen Recording 2023-07-16 at 10.44.24 PM.gif)
+![](https://github.com/NishantV2/20CYS383-Java-Programming-Lab/Records/21CYS/CB.EN.U4CYS21049/java_project/Screen Recording 2023-07-16 at 10.44.24 PM.gif)
 
 
 
